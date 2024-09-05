@@ -83,5 +83,3 @@ GANTT CHART
 
 
 ---
-
-Save this content in a file named `README.md` in the root directory of your project. You can also include the installation steps, usage instructions, and example output specific to your project.
